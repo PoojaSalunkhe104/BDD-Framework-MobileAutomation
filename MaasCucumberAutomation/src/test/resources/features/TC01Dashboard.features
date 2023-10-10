@@ -1,0 +1,15 @@
+Feature: Trip Planner Page Test(order = 1)
+
+  @android 
+  Scenario: Verify the Android app Dashboard
+   Given An anonymous user open the app
+   When I navigate to Dashboard page
+   Then I expect to see Dashboard
+
+
+ @iOS 
+  Scenario: Verify the iOS app Dashboard
+   Given An anonymous user open the app
+    When I navigate to Dashboard page
+    Then I expect to see Dashboard
+

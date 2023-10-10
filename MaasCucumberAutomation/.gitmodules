@@ -1,0 +1,9 @@
+[submodule "src-apps/ios"]
+	path = src-apps/ios
+	url = git@github.com:intelematics/maas-ios.git
+	branch = maas-develop
+
+[submodule "src-apps/android"]
+	path = src-apps/android
+	url = git@github.com:intelematics/maas-android.git
+	branch = maas-develop

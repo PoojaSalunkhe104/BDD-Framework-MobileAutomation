@@ -1,0 +1,10 @@
+target/
+.classpath
+.project
+.settings
+.metadata
+.idea/
+test-output/
+/screenshots/
+/ target/
+.DS_Store
